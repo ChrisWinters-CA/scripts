@@ -1,0 +1,5 @@
+gnome
+dconf-editor
+gnome-nettool
+gnome-tweaks
+sysprof
