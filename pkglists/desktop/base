@@ -1,0 +1,11 @@
+base
+base-devel
+dhcpcd
+dkms
+git
+intel-ucode
+linux
+linux-firmware
+linux-headers
+nano
+openssh
