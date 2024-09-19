@@ -18,7 +18,9 @@ firefox
 gamemode
 giflib
 gimp
+glu
 gnutls
+goverlay
 gst-plugins-base-libs
 htop
 jre-openjdk
@@ -26,6 +28,7 @@ lib32-alsa-lib
 lib32-alsa-plugins
 lib32-gamemode
 lib32-giflib
+lib32-glu
 lib32-gnutls
 lib32-gst-plugins-base-libs
 lib32-libgcrypt
@@ -38,6 +41,10 @@ lib32-libva
 lib32-libxcomposite
 lib32-libxinerama
 lib32-libxslt
+lib32-mangohud
+lib32-mesa
+lib32-mesa-vdpau
+lib32-mpg123
 lib32-ncurses
 lib32-nvidia-utils
 lib32-ocl-icd
@@ -62,6 +69,9 @@ libxinerama
 libxnvctrl
 libxslt
 lutris
+mangohud
+mesa
+mesa-vdpau
 ncurses
 networkmanager
 noto-fonts
@@ -83,6 +93,7 @@ pipewire-pulse
 reflector
 sqlite
 steam
+tlp
 ttf-dejavu
 ttf-droid
 ttf-inconsolata
