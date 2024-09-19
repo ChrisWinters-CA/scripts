@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=nvidia-force-compositon
+Exec=nvidia-settings --assign CurrentMetaMode="eDP-1-1: 1920x1080_60 +0+0 {ForceCompositionPipeline=On}"
