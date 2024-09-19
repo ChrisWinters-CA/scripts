@@ -1,0 +1,11 @@
+base
+base-devel
+dkms
+git
+intel-ucode
+iwd
+linux
+linux-firmware
+linux-headers
+nano
+openssh
