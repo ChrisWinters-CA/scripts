@@ -20,6 +20,7 @@ giflib
 gimp
 glu
 gnutls
+goverlay
 gst-plugins-base-libs
 htop
 jre-openjdk
@@ -40,6 +41,7 @@ lib32-libva
 lib32-libxcomposite
 lib32-libxinerama
 lib32-libxslt
+lib32-mangohud
 lib32-mesa
 lib32-mesa-vdpau
 lib32-mpg123
@@ -67,6 +69,7 @@ libxinerama
 libxnvctrl
 libxslt
 lutris
+mangohud
 mesa
 mesa-vdpau
 ncurses
