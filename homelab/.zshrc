@@ -52,7 +52,7 @@ alias mcattach="doas -u fabric tmux attach"
 alias mirup="sudo reflector -c CA,US -l 10 -p https --sort rate --save /etc/pacman.d/mirrorlist"
 
 # Full System Upgrade
-alias arch-upgrade="mirup && pacup && yayup && paccache && sudo reboot"
+alias arch-upgrade="mirup && pacup && yayup && paccache"
 
 # Pacman
 alias pacup="sudo pacman -Syyu"
