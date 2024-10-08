@@ -17,7 +17,6 @@ libsecret
 mousepad
 ristretto
 seahorse
-secret-tool
 thunar
 thunar-archive-plugin
 thunar-media-tags-plugin
@@ -26,7 +25,7 @@ tumbler
 xfce4-appfinder
 xfce4-battery-plugin
 xfce4-clipman-plugin
-xfce4-cpugraph-plugin	
+xfce4-cpugraph-plugin
 xfce4-fsguard-plugin
 xfce4-mailwatch-plugin
 xfce4-mpc-plugin
