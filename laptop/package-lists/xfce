@@ -1,6 +1,5 @@
 exo
 garcon
-gcr-4
 gnome-keyring
 gvfs
 gvfs-afc
@@ -14,6 +13,9 @@ gvfs-onedrive
 gvfs-smb
 gvfs-wsdd
 libsecret
+lightdm
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
 mousepad
 ristretto
 seahorse
