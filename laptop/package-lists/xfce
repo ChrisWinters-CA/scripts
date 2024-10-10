@@ -1,4 +1,7 @@
+arc-gtk-theme
+blueman
 exo
+galculator
 garcon
 gnome-keyring
 gvfs
@@ -17,6 +20,8 @@ lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 mousepad
+network-manager-applet
+papirus-icon-theme
 ristretto
 seahorse
 thunar
