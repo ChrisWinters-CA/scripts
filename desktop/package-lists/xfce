@@ -1,6 +1,8 @@
+arc-gtk-theme
+blueman
 exo
+galculator
 garcon
-gcr-4
 gnome-keyring
 gvfs
 gvfs-afc
@@ -14,7 +16,12 @@ gvfs-onedrive
 gvfs-smb
 gvfs-wsdd
 libsecret
+lightdm
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
 mousepad
+network-manager-applet
+papirus-icon-theme
 ristretto
 seahorse
 thunar
@@ -22,8 +29,10 @@ thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-volman
 tumbler
+xdg-user-dirs-gtk
 xfce4-appfinder
 xfce4-battery-plugin
+xfce4-datetime-plugin
 xfce4-clipman-plugin
 xfce4-fsguard-plugin
 xfce4-mailwatch-plugin
