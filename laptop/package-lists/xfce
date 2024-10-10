@@ -1,4 +1,4 @@
-arc-gtk-theme
+-datetime-pluginarc-gtk-theme
 blueman
 exo
 galculator
@@ -32,6 +32,7 @@ tumbler
 xdg-user-dirs-gtk
 xfce4-appfinder
 xfce4-battery-plugin
+xfce4-datetime-plugin
 xfce4-clipman-plugin
 xfce4-fsguard-plugin
 xfce4-mailwatch-plugin
