@@ -106,11 +106,11 @@ v4l-utils
 vulkan-icd-loader
 vulkan-intel
 vulkan-tools
+wayland
 wine-staging
 wireplumber
 xdg-user-dirs
 xdg-utils
-xorg
 zip
 zsh
 zsh-autosuggestions
