@@ -61,6 +61,8 @@ ksystemlog
 ksystemstats
 kwallet-pam
 kwalletmanager
+kwayland
+kwayland-integration
 kwin
 kwrited
 layer-shell-qt
