@@ -18,6 +18,12 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 
+## Environment Variables
+
+# GnuPG
+export SSH_AGENT_PID=""
+export SSH_AUTH_SOCK="${XDG_RUNTIME_DIR}/gnupg/S.gpg-agent.ssh"
+
 ## ZSH Themes and Plugins
 
 # Powerlevel10k Theme
